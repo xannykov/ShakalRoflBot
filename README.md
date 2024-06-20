@@ -1,5 +1,8 @@
-# ShakalRoflBot
-![Header](https://github.com/xannykov/ShakalRoflBot/blob/main/demonstration/ShakalRoflBot.png)
+<div align="center">
+    <h1> ShakalRoflBot
+    <br>
+    <img src="https://github.com/xannykov/ShakalRoflBot/blob/main/demonstration/ShakalRoflBot.png"/>
+</div>
 
 ___
 ## Описание
