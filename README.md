@@ -29,27 +29,27 @@ ___
 
 2. Переход в директорию ShakalRoflBot
 
-```sh
-cd ShakalRoflBot
-```
+  ```sh
+  cd ShakalRoflBot
+  ```
 
 3. Создание виртуального окружения
 
-```sh
-py -m venv venv
-```
+  ```sh
+  py -m venv venv
+  ```
 
 4. Установите зависимости:
 
-```sh
-pip install -r requirements.txt
-```
+  ```sh
+  pip install -r requirements.txt
+  ```
 
 5. Перейдите в *utils.py* и в строчке ```bot = telebot.TeleBot('TOKEN')``` введите свой TOKEN.
 
-1. Запуск:
-
-```sh
-py main.py
-```
+6. Запуск:
+   
+  ```sh
+  py main.py
+  ```
 ___
