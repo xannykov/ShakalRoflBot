@@ -25,11 +25,11 @@ ___
 
 ```git clone https://github.com/xannykov/ShakalRoflBot.git```
 
-2. Переход в директорию ShakalRoflBot
+2. Переход в директорию ShakalRoflBot:
 
 ```cd ShakalRoflBot```
 
-3. Создание виртуального окружения
+3. Создание виртуального окружения:
 
 ```py -m venv venv```
 
@@ -39,7 +39,7 @@ ___
 
 5. Перейдите в *utils.py* и в строчке ```bot = telebot.TeleBot('TOKEN')``` введите свой TOKEN.
 
-1. Запуск:
+6. Запуск:
 
 ```py main.py```
 ___
