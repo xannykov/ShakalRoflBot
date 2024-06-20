@@ -23,23 +23,33 @@ ___
 
 1. Клонируйте репозиторий:
 
-```git clone https://github.com/xannykov/ShakalRoflBot.git```
+  ```sh
+  git clone https://github.com/xannykov/ShakalRoflBot.git
+  ```
 
 2. Переход в директорию ShakalRoflBot
 
-```cd ShakalRoflBot```
+```sh
+cd ShakalRoflBot
+```
 
 3. Создание виртуального окружения
 
-```py -m venv venv```
+```sh
+py -m venv venv
+```
 
 4. Установите зависимости:
 
-```pip install -r requirements.txt```
+```sh
+pip install -r requirements.txt
+```
 
 5. Перейдите в *utils.py* и в строчке ```bot = telebot.TeleBot('TOKEN')``` введите свой TOKEN.
 
 1. Запуск:
 
-```py main.py```
+```sh
+py main.py
+```
 ___
