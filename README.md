@@ -27,13 +27,13 @@ ___
   git clone https://github.com/xannykov/ShakalRoflBot.git
   ```
 
-2. Переход в директорию ShakalRoflBot
+2. Переход в директорию ShakalRoflBot:
 
   ```sh
   cd ShakalRoflBot
   ```
 
-3. Создание виртуального окружения
+3. Создание виртуального окружения:
 
   ```sh
   py -m venv venv
