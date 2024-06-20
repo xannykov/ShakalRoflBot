@@ -1,4 +1,6 @@
 # ShakalRoflBot
+![Header](https://github.com/xannykov/ShakalRoflBot/blob/main/demonstration/ShakalRoflBot.png)
+
 ___
 ## Описание
 **ShakalRoflBot** — это Telegram-бот, который сжимает качество изображений и видео. Он позволяет пользователям выбирать уровень сжатия и отправлять файлы для уменьшения их качества. Этот бот идеально подходит для создания забавных и искаженных версий ваших медиафайлов.
