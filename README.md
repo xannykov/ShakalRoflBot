@@ -41,18 +41,22 @@ ___
 3. Создание виртуального окружения:
 
   ```sh
-  py -m venv venv
+  py -m venv .venv
   ```
 
-4. Установите зависимости:
+4. Активация:
+  ```sh
+  .venv\Scripts\activate
+  ```
+5. Установите зависимости:
 
   ```sh
   pip install -r requirements.txt
   ```
 
-5. Перейдите в *utils.py* и в строчке ```bot = telebot.TeleBot('TOKEN')``` введите свой TOKEN.
+6. Перейдите в *utils.py* и в строчке ```bot = telebot.TeleBot('TOKEN')``` введите свой TOKEN.
 
-6. Запуск:
+7. Запуск:
    
   ```sh
   py main.py
